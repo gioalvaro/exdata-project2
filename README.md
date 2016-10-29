@@ -1,13 +1,5 @@
----
-title: "Exploratory Data Analysis - Project 2"
-output: github_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
+Exploratory Data Analysis - Project 2
+======================================
 
 # Introduction
 
